@@ -51,7 +51,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-187391ea01398010b4b1d2fedf5839c9)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 - [Capa gerada no Leonardo AI](https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)
 - [Áudio do podcast editado](https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/output/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)
