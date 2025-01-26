@@ -19,10 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
-</p>
-
-<a href="https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/output/Vira_Dados_Ep01.MP3"> 🔴Clique aqui para ouvir</a>
+    <a href="https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/output/Vira_Dados_Ep01.MP3"> 🔴Clique aqui para ouvir</p>
 
 <div align="center">
     <audio src="output/Vira_Dados_Ep01.MP3" controls title="Podcast editado"></audio>
